@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/res/xml/preferences.xml"
+    }
+]

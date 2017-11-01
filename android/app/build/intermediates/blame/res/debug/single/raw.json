@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/res/merged/debug/raw/bell.mp3",
+        "source": "/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/src/main/res/raw/bell.mp3"
+    },
+    {
+        "merged": "/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/res/merged/debug/raw/bell.mp3",
+        "source": "/Users/mobileappsadmin/Documents/ExternalNotification/android/app/src/main/res/raw/bell.mp3"
+    }
+]

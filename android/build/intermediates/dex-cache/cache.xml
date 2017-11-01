@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_eb50e2173d7951507e5748b112f783ec55e078f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_a1c97e265e2c213413d9e64dcdf9ffd3f2ae23ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_548c1c7ae8890d5bbce8a8590e7580c4b02105ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_00940f0aa66caca92fe779395ad8928e6ca7f888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_6c86104488bcb9ff9e62ebb159538d9bf460adfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_b3c572880a4d24a2a5b341cd3524a220e9f99896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_5932f8c5afbe183966f64517843c1216db3751b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_9807999ec82297921c78d291db166859e5af8234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_3439bd5e878ac6515fbe311c4f45bf1270aa576c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_67f493cd1662481d399ff8ea792467f733f529b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_8ce8b7f850d4f1a9d5b261163d67b00648cfab9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_555bd556d4392b77e45f6a0546e5d52b21c898aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/SimpleFcmClient/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="35432c278fbb26bd07176cca3c50afd568c6965a">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/SimpleFcmClient-react-native-fcm-unspecified_11efcf4eeb5ceb4e93538ca7dae6a8450f4d9daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_4760fc0e703ab69e683ef62d17a886d7703316fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_424003259fc8eaab41e0d8fe98e2d088aaed037f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_f47fc770d5d1613a42bea665489aeebf202d890a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_18349115a6287f628fb57d08fbebdcb1834c4e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_c8004888ec167729cfb9dde673ba87e73b4f617d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_978b23f590db4610bd965b03b00417515ee910c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_0c248cb9f8710f23dc8ce87cdd40c8d04602f5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/SimpleFcmClient/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="35432c278fbb26bd07176cca3c50afd568c6965a">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/SimpleFcmClient-react-native-fcm-unspecified_9a39dab43b9d1bfc911cbcc448223c66d781df32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_7d450b366b04aa2157ea7ce95bc7fb9893dcb287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_bb59a4728fd5190d58f435d4f251d2fad78053b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_48598e744ffa177255816784d11b8f5cd73867fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_66ec16669923156a83cede0d2bd083ebe6a96eb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_e7742d547b18205c16f57acc881080e98aec5bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_91c8aa0f5ddb559c1333a9a5e166610c955d78b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_955ac4142e0c168b6438e83db0e9cbb1a2af2f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_dda1cc7debe23cdbb33a079039ea5188ce941a98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_6e12dda0f17fb7e81a52c8741a34098f299d9372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_7ce68563b7ee3f515973ba5bdb3af344214fffa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d2074eac0ca633faf9631028bed8675d73409f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_367ae5668630fca8797cc8d1f677b798214a1a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_0add1e2a093b5533571188c0db976570aaeabf81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6b3afac1d3d78f37c9abbf02cd6b9c0f7d8b045e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7499fa877af4deda211f860e1b029a166ec3c0ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_bafde2d77390463e984b06635ddc98aa41e3060a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ea468224ae1824e5796e19a20b6bf12a7e2636d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_f6a59c9185147194fe53a024022241c5e34dd5ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_c8723395cd7aa074329f57a7d95170810e531fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_7590d992b8f204c7facb19942792f719afd53aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_6f593b0109d98d078581664b39db106728ff202d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c927d6fcde5208c628a772eac324ae0f993fa11e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_633b0e7cd0e62d9e5eba4f1abff40c49ba7d0ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e12685e215b950ff69ded1b3dafa774f3819f63b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_2d1ad721d4226e8e8d02b5518eed920782db3a34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_b5bd68c0ce585a636269c7d033ee200410780c54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_5f2269e63249104c25a8600002f1a087d5a8bff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_94ab8791effd211b1dc30379fb85911c17280823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_59c6dbdc2ee9aad224e15dc173e1850198324cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_8761b018b0cef292e9c8450e4b540616ffe416b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c38eb8f9fbcd34e974cf1ef2b7e69e3d0e7b3665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_31240ff28cdd2400b79f60d5ced3ad4761fb55a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ca07e8882d7149fe1d24dcf785be3ed9cd0e743c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_5b085719d614f8564eabf5832e0c9c563e14cd7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_a5d7ff084e032554e56d90806f3426510b9afdd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_3f3d52dc81a2959d2e4598ad7a897e5d4af07f47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_6a7657d2cf751a5eeab8b826b842115ffc377d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/mobileappsadmin/Documents/ExternalNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_e21095a4ff8c458620065f15531a567fd2bb30de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mobileappsadmin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mobileappsadmin/Documents/simple-fcm-client/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_810b5c5c084cf2899ab87b2eca734e3312355277.jar" />
+    </item>
+
+</items>
